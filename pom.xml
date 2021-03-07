@@ -7,8 +7,32 @@
     <groupId>com.github.volodya-lombrozo</groupId>
     <artifactId>lepus</artifactId>
     <version>0.0.1</version>
+    <packaging>jar</packaging>
+    <description>The simple Rabbit MQ client for Java based on official client</description>
+    <url>https://github.com/volodya-lombrozo/lepus</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Volodya Lombrozo</name>
+            <email>volodya.lombrozo@yandex.ru</email>
+            <roles>
+                <role>
+                    Developer
+                </role>
+            </roles>
+        </developer>
+    </developers>
+
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
