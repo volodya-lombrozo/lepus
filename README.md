@@ -17,3 +17,7 @@ on [official client](https://github.com/rabbitmq/rabbitmq-java-client). Lepus re
 
 1. DSL for Rabbit MQ topology. Based on YAML.
 2. Easy java client for simple work with Rabbit MQ.
+
+## Code quality
+
+Code coverage status (by [JaCoCo](https://www.eclemma.org/jacoco/index.html)): [![codecov](https://codecov.io/gh/volodya-lombrozo/lepus/branch/master/graph/badge.svg?token=2hFydel7mK)](https://codecov.io/gh/volodya-lombrozo/lepus)
