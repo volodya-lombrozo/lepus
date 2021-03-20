@@ -7,7 +7,7 @@ on [official client](https://github.com/rabbitmq/rabbitmq-java-client). Lepus re
 
 ``` xml
 <dependency>
-    <groupId>com.github.volodya-lombrozo</groupId>
+    <groupId>com.github.lepus</groupId>
     <artifactId>lepus</artifactId>
     <version>0.0.1</version>
 </dependency>
