@@ -1,7 +1,6 @@
 package com.github.volodya_lombrozo.lepus.connection;
 
-public interface Connection {
+public interface ConnectionPool {
 
     Channel channel();
-
 }

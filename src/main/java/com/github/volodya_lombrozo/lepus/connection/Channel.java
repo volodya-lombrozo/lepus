@@ -1,4 +1,4 @@
 package com.github.volodya_lombrozo.lepus.connection;
 
-public class Channel {
+public interface Channel {
 }
